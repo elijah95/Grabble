@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.0_951714bd177cfb57e9c2650944820446c6aab559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.0_42dc6551da33b6f7d28d56580431cc785e7a6ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_f478ddad66f91e646ecf54d9fbee3b9356b4e5b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.0_1cf647eed4e2393bff179d3026d88bb4979bf43a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_30517440db111769554538b36db43ea036013391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.0_7c1aa3a2ae2c8c76210c5bf0d769d0b9ac9bd598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.0_03b1608fee93e4ba5c0247b1714cdfea61313642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.0_e961384d2cdbea99cde64a8f8947c2f0d82e1b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.0_edd0c98e5128ed3418f2aacaf2ab17a1878e1bec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.0_ca227b0fdbce6da006c37ed1527aab22a2953e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.0_5214cf8793b51b421c49f383905eabe20bdefd09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.0_91ba28eb9b6da53cebb7f0d7e398b31803490933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.0_ff48bba26bc0a70bcb97b40bc7d65e20d0798d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_5f06bd6ac04659d2165d14dae90bf929aceccdd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_8c773d10ccb43f90a57153fbd25e02db23701079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_86f19e71364ec0fa55dd66a9397dbb8dfdf38e2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.0_ad9a8bf90f9a5b0ed07098d707ed15a86b04d17c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_f5b0104ab83e61758676196c09179990296f70ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.0_a3f846c7934ffc69cd58534b1559c9acdf64d261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.0_a10968c11b83c7450d0e69647f56768918921f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_11dd1768783b46acda6369e1acf3c6572c5e7936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.0_ecba49115223cc571d0e5112fbf665b2d1fdbba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.0_cf10d814f9915e2ba06fe303eaf8ab3dce87b4fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_dc77e548cadd58add7da03739839a8ec2aaee0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.0_3fe7276c018ecff278a11540d56293def386bbcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_064bfcb12510262e39dd24ee09670afcd9e71b91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_dc6b37121d875253b4d5c74f896988e9789b485b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.0_0855069ced3256098cd6146f50edddafc42e8afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.0_aaddad668aca23fcc42a90cbb7a4884301b4c5c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.0_9f0b863d8c252f6da418e2e69133d229a7020501\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.0_a516bdd01aed65774bbf906678848732a4517850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.4_56ca23a723fca332ee58c4e8a5777ddff8310b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_49615e0fb88350bf17593015592c6ea85557e169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.0_6087a74317a804560b148a8a372f948aa7eb4612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.0_873294ffa6946900863ed2999b2172e96df99e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.0_ae7d3598553ad7b6c8f6f6b88bfc85b5df81b744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1634d26f87f207ece8b14a990d7a24dfb41ccc">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a7ad0917d14ce37bd48ac56ac1bd1feea9b8ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.0_3a08b60d4646bb1ab30163bf66ee8bccb406aca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_248ab0443bd0e3d68a05dc8bd8c7510b666aae97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.0_16ac9d7b2668d4bc9d9c083a3adfd77b8b28532b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_60544f4f19870b69f95d5da167d8be7abd8cb140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.0_27e2ba760878052760eca82adcad861dd1ff08ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.0_bae7b15954e9919900e1209279130c04023eef78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_0abdd9b2bfdca42c92678a813b1707bd58bb93a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_37dab827e21d7191e5a717e990d1314249e639a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_1f3ceb94f902189d1bfedcccf5a1a9d1003ff0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.0_6fb826ba159c851b5a0086b075ffa954f87073b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elijah\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_82ecbc89de4de3d6ecf86ae2c20a30301785b168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.0_afaeec87a33b0fd7d5d6818385eab5818233bd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_5efb4944d0c55b31edc7172d2f488c2f128177c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.0_948b0d94530794f83a9a8ae2eee95de8b84cc0a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.0_d5bf969e85279a467bae0832593d616236e2487b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_86e96d9058e7c55204c0014c76616152a2aa66ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_6787536519524cc347e09e68fdd36aa37c176444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.0_dd3775a5af924c2b4416afcf7d6fb91547af89b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_84da2adde39d1d2e463f4575e58d437c1de275ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8a76409068a83ce07e732f946713d76fc99e3825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f17e58f2d53358d7a51ffa38753a8a105f65255">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab4705ccd22f51c4c766e2dd1fb54b31327c7921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.0_cd4f567ae7bc82365a0b943ed6080cfa3d712b62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.0_c2702b68cd012f91fe6c32841e89c48e9991e953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.0_1dda8ab2601f32a83abb1f41fe1f9aa35ee3d925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_0a185d0117eb3c79832b742c77b5206ba6435a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.0_1890d34a7e87f9f7567c9bc2c2d8dcfb42a177f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.0_50d32eb4bea7823f96eda86dec0b887d67af853a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.0_3171c343b0be9511d0b0633ea87ebdf733d6134d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.0_d36ae421ff119ca98080e6094da35cba9e2b47f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_975794c29dff625576f9cd61e574dfea89368454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_8ed06938f99dfffe4f34757e8a739e2351d6b716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.0_9cdb760af9c431c21f14185a43cf35b63bd7d72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_4ee1b04fb4eed75fd979dac4a66e1cc05ba25035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.0_8c681e7c2d2f74a53be0b750ff6240f4e0048cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.0_e74be81a616c32ab1d590e55fa6f929334846978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="D:\Install\AndroidProjects\GrabbleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.0_3328c3a5b855ee75c09919adc729275e026dd9be\classes.dex" />
+    </item>
+
+</items>
